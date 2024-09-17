@@ -1,1 +1,5 @@
-# ecommerce-dashboard
+# ECOMMERCE-DASHBOARD
+
+In this dashboard I find out the following insights:
+
+The dashboard provides a comprehensive view of key performance indicators (KPIs) such as YTD Sales, Profit, Quantity Sold, and Profit Margin, along with Year-over-Year (YoY) growth trends represented by sparklines. It analyzes YTD Sales, Previous Year-to-Date (PYTD) Sales, and YoY Sales growth across different product categories. Additionally, it evaluates YTD Sales performance by state and region, identifying both the best and worst-performing regions. Furthermore, it examines YTD Sales by Shipping Type to determine the most effective method.The dashboard provides a comprehensive view of key performance indicators (KPIs) such as YTD Sales, Profit, Quantity Sold, and Profit Margin, along with Year-over-Year (YoY) growth trends represented by sparklines. It analyzes YTD Sales, Previous Year-to-Date (PYTD) Sales, and YoY Sales growth across different product categories. Additionally, it evaluates YTD Sales performance by state and region, identifying both the best and worst-performing regions. Furthermore, it examines YTD Sales by Shipping Type to determine the most effective method.
